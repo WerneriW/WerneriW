@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @WerneriW
+- 👀 I’m interested in programming, psychological education & human anatomy
+- 🌱 I’m currently learning site and software programming
+- 📫 How to reach me: werneriw@yahoo.com
